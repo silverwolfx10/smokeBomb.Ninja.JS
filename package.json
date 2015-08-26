@@ -1,0 +1,26 @@
+{
+  "name": "smokeBomb.Ninja.JS",
+  "version": "0.0.0",
+  "description": "Segredo Ninja, solte uma bomba de fumaça e desapareça no global scope e no debugger...",
+  "main": "script.txt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bibizzy/smokeBomb.Ninja.JS.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bibizzy/smokeBomb.Ninja.JS/issues"
+  },
+  "homepage": "https://github.com/Bibizzy/smokeBomb.Ninja.JS",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-inject": "^1.5.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "smokeBomb.Ninja.JS",
+  "version": "0.0.0",
+  "authors": [
+    "Cleber de Moraes Goncalves <cleber.programmer@hotmail.com>"
+  ],
+  "description": "Segredo Ninja, solte uma bomba de fumaça e desapareça no global scope e no debugger...",
+  "main": "smokeBomb.js",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "smokeBombs://github.com/Bibizzy/smokeBomb.Ninja.JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
